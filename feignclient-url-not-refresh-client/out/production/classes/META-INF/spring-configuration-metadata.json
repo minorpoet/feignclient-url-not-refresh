@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "pri.holysu.springcloud.issue.feignclienturlnotrefreshclient.config.Config",
+      "name": "uat",
+      "type": "pri.holysu.springcloud.issue.feignclienturlnotrefreshclient.config.Config"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "pri.holysu.springcloud.issue.feignclienturlnotrefreshclient.config.Config",
+      "name": "uat.url",
+      "type": "java.lang.String"
+    }
+  ]
+}
