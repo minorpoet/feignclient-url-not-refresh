@@ -112,7 +112,7 @@
 
    ### but 
 
-   when i update `uat.url=localhost:8088 ` to `uat.url=localhost:8098 `  , ie  uat1 -> uat2
+   when i update `uat.url=localhost:8088 ` to `uat.url=localhost:8089 `  , ie  uat1 -> uat2
 
    and `curl -X POST http://localhost:8080/bus/refresh `
 
@@ -120,7 +120,7 @@
 
    visit:        http://127.0.0.1:9999/url 
 
-   output:   localhost:**8089 **                            *@ConfigurationProperties config is refreshed*            
+   output:   localhost: **8089 **                            *@ConfigurationProperties config is refreshed*            
 
    ​
 
